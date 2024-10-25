@@ -4,3 +4,6 @@
 *.aux
 *.log
 *.fls
+
+# Python unwanted files
+__pycache__/
